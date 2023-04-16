@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background: linear-gradient(to right, rgb(198, 243, 100), rgb(1, 17, 19));
+}
